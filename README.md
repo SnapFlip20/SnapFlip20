@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+언젠간 사용하게 되지 않을까? 일단 남겨두자
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
@@ -21,3 +22,22 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnapFlip20&hide_langs_below=0.5)](#)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnapFlip20&count_bg=%2379C83D&title_bg=%23AEAEAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Who Am I? 🤔
+* Majors Information and Communication Technology(2020 ~)
+* How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
+</br>
+
+## Things I Deal With On The Computer 💻
+* Python3, PyPy3, PyQt5(GUI Programming)
+* C, C++
+* Markdown
+* Batch File
+* R(Soon)
+* Kotlin(Soon)
+* Problem Solving
+* making discorrd bot
+* composing/arranging MIDI
+* and more...!
+
+
