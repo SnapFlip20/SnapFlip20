@@ -17,25 +17,38 @@ Here are some ideas to get you started:
 언젠간 사용하게 되지 않을까? 일단 남겨두자
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnapFlip20&hide_langs_below=0.5)](#)
 
-## Who Am I? 🤔
-* Majors Information and Communication Technology(2020 ~)
+## 🤔 Introduction 
+* A (noob)student programmer from South Korea.
+* Majors Information and Communication Technology(2020 ~).
+* Interested in Python3, Algorithm, GUI Programming.
 * How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
 </br>
 
-## Things I Deal With On The Computer 💻
-* **Python3**, PyPy3, PyQt5(GUI Programming)
-* C, C++
+## 💻 Things I Deal With On The Computer
+### currently learning
+* **Python3(Capable)**
+* PyQt5
+* C
 * Markdown
-* Batch File
-* R(Soon)
-* Kotlin(Soon)
 * Problem Solving
-* making discorrd bot
+* developing discord bot
+
+### soon
+* C++
+* R
+
+### maybe someday
+* Kotlin
+* JavaScript
+
+### etc
+* Batch File(.bat)
 * composing/arranging MIDI
-* and more...!
 
 
+## My Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnapFlip20&layout=compact)](https://github.com/SnapFlip20)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20&)](https://solved.ac/snapflip20)
