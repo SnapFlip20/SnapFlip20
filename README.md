@@ -1,5 +1,4 @@
 # **Hi there, I'm SnapFlip20 👋**
-</br>
 
 <!--
 **SnapFlip20/SnapFlip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,9 +43,8 @@ Here are some ideas to get you started:
 * JavaScript
 
 ### etc
-* Batch File(.bat)
-* composing/arranging MIDI
-
+* Bash(Batch File)
+* Composing/Arranging MIDI
 
 ## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
