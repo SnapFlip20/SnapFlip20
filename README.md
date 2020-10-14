@@ -51,5 +51,7 @@ Here are some ideas to get you started:
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnapFlip20&layout=compact)](https://github.com/SnapFlip20)
 </br>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20&)](https://solved.ac/snapflip20)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20)](https://solved.ac/snapflip20)
 </br>
+
