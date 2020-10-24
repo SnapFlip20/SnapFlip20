@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 * **Python3(Capable)**
 * PyQt5
 * C
+* R
 * Markdown
 * Problem Solving
 * developing discord bot
 
 ### soon
 * C++
-* R
 
 ### maybe someday
 * Kotlin
