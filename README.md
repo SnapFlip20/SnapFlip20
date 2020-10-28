@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🤔 Introduction 
 * A (noob)student programmer from South Korea.
-* Majors Information and Communication Technology(2020 ~).
+* Major in Information and Communication Technology(2020 ~).
 * Interested in Python3, Algorithm, GUI Programming.
 * How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
 * 조언이나 충고 등 저에게 하고싶은 말이 있다면 부담없이 위의 메일로 연락 부탁드립니다!😄
