@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ## 💻 Things I Deal With On The Computer
 ### currently learning
 * **Python3(Capable)**
-* PyQt5
 * C
 * R
 * Markdown
