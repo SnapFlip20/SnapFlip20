@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 |:---|:---|:---|
 |* **Python3(Capable)**</br>* C</br>* R</br>* Markdown</br>* Problem Solving|* C++|* SQL</br>* Web developing|
 
-|Etc|
+|**Etc**|
 |:---|
 |* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
