@@ -24,24 +24,14 @@ Here are some ideas to get you started:
 * 조언이나 충고 등 저에게 하고싶은 말이 있다면 부담없이 위의 메일로 연락 부탁드립니다!😄
 
 ## 💻 Things I Deal With On The Computer
-### currently learning
-* **Python3(Capable)**
-* C
-* R
-* Markdown
-* Problem Solving
-* developing discord bot
 
-### soon
-* C++
+|**Currently learning**|**Soon**|**Maybe someday**|
+|:---|:---|:---|
+|* **Python3(Capable)**</br>* C</br>* R</br>* Markdown</br>* Problem Solving|* C++|* SQL</br>* Web developing|
 
-### maybe someday
-* Kotlin
-* JavaScript
-
-### etc
-* Bash(Batch File)
-* Composing/Arranging MIDI
+|Etc|
+|:---|
+|* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
 ## 📊 My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
