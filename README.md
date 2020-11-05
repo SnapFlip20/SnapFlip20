@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 ## 📊 My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnapFlip20&layout=compact)](https://github.com/SnapFlip20)
-</br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20)](https://solved.ac/snapflip20)
 <!-- Solved.ac repository from https://github.com/mazassumnida/mazassumnida -->
