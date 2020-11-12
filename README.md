@@ -25,13 +25,9 @@ Here are some ideas to get you started:
 
 ## 💻 Things I Deal With On The Computer
 
-|**Currently learning**|**Soon**|**Maybe someday**|
-|:---|:---|:---|
-|* **Python3(Capable)**</br>* C</br>* R</br>* Markdown</br>* Problem Solving|* C++|* SQL</br>* Web developing|
-
-|**Etc**|
-|:---|
-|* Bash(Batch File)</br>* Composing/Arranging MIDI|
+|**Currently learning**|**Soon**|**Maybe someday**|**Etc**|
+|:---|:---|:---|:---|
+|* **Python3(Capable)**</br>* C</br>* R</br>* Markdown</br>* Problem Solving|* C++|* SQL</br>* Web developing|* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
 ## 📊 My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
