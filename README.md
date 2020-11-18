@@ -1,5 +1,3 @@
-# **Hi there, I'm SnapFlip20 👋**
-
 <!--
 **SnapFlip20/SnapFlip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,20 +14,19 @@ Here are some ideas to get you started:
 언젠간 사용하게 되지 않을까? 일단 남겨두자
 -->
 
-## 🤔 Introduction 
+## Introduction 
 * A (noob)student programmer from South Korea.
 * Major in Information and Communication Technology(2020 ~).
 * Interested in Python3, Algorithm, GUI Programming.
 * How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
-* 조언이나 충고 등 저에게 하고싶은 말이 있다면 부담없이 위의 메일로 연락 부탁드립니다!😄
 
-## 💻 Things I Deal With On The Computer
+## Things I Deal With On The Computer
 
 |**Currently learning**|**Soon**|**Maybe someday**|**Etc**|
 |:---|:---|:---|:---|
 |* **Python3(Capable)**</br>* C</br>* R</br>* Markdown</br>* Problem Solving|* C++|* SQL</br>* Web developing|* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
-## 📊 My Stats
+## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
 </br>
 [![Solved.ac
