@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Introduction 
 * A (noob)student programmer from South Korea.
 * Major in Information and Communication Technology(2020 ~).
-* Interested in Python3, Algorithm, GUI Programming.
+* Interested in Python3, Algorithm, Math.
 * How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
 
 ## Things I Deal With On The Computer
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20)](https://solved.ac/snapflip20)
-<!-- Solved.ac repository from https://github.com/mazassumnida/mazassumnida -->
+<!-- Solved.ac repository from https://github.com/mazassumnida/mazassumnida --> 
