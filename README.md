@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 |:---|:---|:---|
 |* **Python3(Capable)**</br>* C++</br>* Java</br>* ML/DL</br>* Markdown</br>* Problem Solving|* SQL</br>* Web developing|* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
-## My Stats
+<!-- ## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
 </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snapflip20)](https://solved.ac/snapflip20)
-<!-- Solved.ac repository from https://github.com/mazassumnida/mazassumnida --> 
+-->
