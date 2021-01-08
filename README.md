@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🤔 Introduction 
 * Major in Information and Communication Technology(2020 ~).
 * Interested in Python3, Algorithm, Math.
-* How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungmin1755@gmail.com)](mailto:jungmin1755@gmail.com)
+* How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snapflip20@gmail.com)](mailto:snapflip20@gmail.com)
 
 ## 🌱 Things I Deal With On The Computer
 
