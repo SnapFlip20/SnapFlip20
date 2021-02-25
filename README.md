@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 |**Currently learning**|**Maybe someday**|**Etc**|
 |:---|:---|:---|
-|* **Python3(Capable)**</br>* C++</br>* Java</br>* ML/DL</br>* Web Developing</br>* Problem Solving|* SQL</br>* Data Science</br>* Android|* Bash(Batch File)</br>* Composing/Arranging MIDI|
+|* **Python3(Capable)**</br>* C++</br>* Java</br>* ML/DL</br>* Problem Solving|* SQL</br>* Data Science</br>* Android|* Bash(Batch File)</br>* Composing/Arranging MIDI|
 
 ## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
