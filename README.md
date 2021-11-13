@@ -16,16 +16,9 @@ Here are some ideas to get you started:
 
 ## 🤔 Introduction 
 * Major in Information and Communication Technology(2020 ~).
-* Interested in Python3, Algorithm, Math.
+* Interested in Python, Algorithm, Math.
 * How To Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snapflip20@gmail.com)](mailto:snapflip20@gmail.com)
 
-## 🌱 Things I Deal With On The Computer
-
-|**Currently learning**|**Maybe someday**|**Etc**|
-|:---|:---|:---|
-|* **Python3(Capable)**</br>* C++</br>* Java</br>* ML/DL</br>* Problem Solving|* SQL</br>* Data Science</br>* Android|* Bash(Batch File)</br>* Composing/Arranging MIDI|
-
-## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnapFlip20&show_icons=true&theme=dark)
 </br>
 [![Solved.ac
